@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://180.150.189.57:8080/apk/AGame_0.3.0_2.3_uCloud.ipa</string>
+            <string>http://180.150.189.57:8080/apk/AGame_0.4.0_uCloud.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
           <key>bundle-identifier</key>
           <string>com.hangze.AGame</string>
           <key>bundle-version</key>
-          <string>0.3.0</string>
+          <string>0.4.0</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
